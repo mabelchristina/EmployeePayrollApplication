@@ -1,0 +1,76 @@
+{
+  "employee": [
+    {
+      "name": "jack",
+      "profile": "../Assets/Images/Ellipse -3.png",
+      "gender": "Male",
+      "department": "HR,SALES",
+      "salary": "7000",
+      "startdate": "6/July/2014",
+      "id": 14
+    },
+    {
+      "name": "nithya",
+      "profile": "../Assets/Images/Ellipse -4.png",
+      "gender": "Female",
+      "department": "HR,SALES,FINANCE,OTHERS",
+      "salary": "5000",
+      "startdate": "4/April/2017",
+      "id": 15
+    },
+    {
+      "name": "Mabel",
+      "profile": "../Assets/Images/Ellipse -1.png",
+      "gender": "Female",
+      "department": "HR,SALES,FINANCE",
+      "salary": "8000",
+      "startdate": "3/Feb/2017",
+      "id": 16
+    },
+    {
+      "name": "lohith",
+      "profile": "../Assets/Images/Ellipse -3.png",
+      "gender": "Male",
+      "department": "FINANCE",
+      "salary": "50000",
+      "startdate": "3/July/2021",
+      "id": 18
+    },
+    {
+      "name": "swac",
+      "profile": "../Assets/Images/Ellipse -3.png",
+      "gender": "Male",
+      "department": "FINANCE",
+      "salary": "5000",
+      "startdate": "1/Jan/2021",
+      "id": 19
+    },
+    {
+      "name": "christina  mabel",
+      "profile": "../Assets/Images/Ellipse -4.png",
+      "gender": "Male",
+      "department": "FINANCE",
+      "salary": "3000",
+      "startdate": "18/Sept/2021",
+      "id": 20
+    },
+    {
+      "name": "la",
+      "profile": "../Assets/Images/Ellipse -2.png",
+      "gender": "Female",
+      "department": "HR,SALES",
+      "salary": "5000",
+      "startdate": "1/Jan/2021",
+      "id": 21
+    },
+    {
+      "name": "madhuri",
+      "profile": "../Assets/Images/Ellipse -1.png",
+      "gender": "Female",
+      "department": "HR",
+      "salary": "9000",
+      "startdate": "11/Nov/2014",
+      "id": 22
+    }
+  ]
+}
